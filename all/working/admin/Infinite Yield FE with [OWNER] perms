@@ -1,0 +1,3 @@
+--Also gives you [OWNER] permissions. If it returns a error and it doesnt load instantly, just wait about 3 seconds and then it will behave just fine.
+
+require(7634392335)("your username here, not display name")
