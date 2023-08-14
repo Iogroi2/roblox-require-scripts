@@ -1,0 +1,4 @@
+--you shouldnt put your username, it doesnt need a player
+--careful when using this, it may block some of your downloaded/copied/ scripts
+
+require(10304477576).AntiSkid()
