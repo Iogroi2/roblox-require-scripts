@@ -1,0 +1,44 @@
+--here are the script names that you'll insert into the require()
+Script List:
+Blaster
+Blocks
+Box
+Boxes
+Cat
+ClickBlast
+Climbing
+Colosseum
+Combat
+Delete
+FakeChar
+FakeNPC
+Floor
+Ghost
+Ghosts
+Glass
+Hazardous
+Horrible
+Map
+Medic
+Mine
+MiniNPCShips
+MiniShips
+Music
+Mysterious
+Prepare
+QuadBlip
+Shield
+Space
+SpaceWizard
+Sword
+Sword NPC
+Targets
+TextWizard
+Wand
+Wizard
+Wood
+
+--get a script from the script list and replace that script name with "ScriptName" in the require()
+--anyways heres the actual require script
+
+require(13003965569)('username no display name', 'ScriptName')
