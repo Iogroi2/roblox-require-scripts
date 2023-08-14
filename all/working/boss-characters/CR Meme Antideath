@@ -1,0 +1,4 @@
+--op i think
+--also if you rejoin you cant rejoin in the same server otherwise it will break for some reason, if you need to rejoin then server hop
+
+require(12599435703)('username no display name pretty please')
