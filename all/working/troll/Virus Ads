@@ -1,0 +1,5 @@
+--you dont have to put your own username, you can get someone else's username and infect them with this script
+--basically displays virus ads on the user's screen, if the player presses a button on that ad uhh.. just you'll find out if you infect yourself with this script
+--NO DISPLAY NAME GRRR
+
+ require(6707668066).virus("targetusername")
