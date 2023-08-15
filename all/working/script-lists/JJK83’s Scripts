@@ -39,6 +39,6 @@ Wizard
 Wood
 
 --get a script from the script list and replace that script name with "ScriptName" in the require()
---anyways heres the actual require script
+--Anyways here you go, dont forget NO DISPLAY NAME.
 
-require(13003965569)('username no display name', 'ScriptName')
+require(13003965569)('Username', 'ScriptName')
