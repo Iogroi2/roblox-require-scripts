@@ -3,6 +3,6 @@
 
 --its really laggy, use with caution
 --but a game i saw it being used on "resetserver" didnt even work
--- anyways enough talking here you go
+--Anyways here you go, dont forget NO DISPLAY NAME.
 
-require(5034863407).subtosyntax64("username no display name")
+require(5034863407).subtosyntax64("Username")
