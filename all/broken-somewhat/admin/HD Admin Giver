@@ -1,3 +1,4 @@
 --idk if its broken, when i tested in my game it worked, but when i tested it in a server-side executor game, it didnt work
+--Anyways here you go, dont forget NO DISPLAY NAME.
 
-require(7192763922).load("your username here, no display name pretty please")
+require(7192763922).load("Username")
