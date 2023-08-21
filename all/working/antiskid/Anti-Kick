@@ -1,0 +1,5 @@
+--its silent, theres no popup, notification or gui
+--however when i tried to kick myself it just said there was a error
+--and when i joined a server without this anti-kick i could kick myself
+
+require(4820862445).load()
