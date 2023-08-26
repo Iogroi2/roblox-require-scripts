@@ -1,0 +1,7 @@
+--as you may know, c00lgui is deleted/broken.
+--well, c00lgui is pretty rare, but i managed to find a script that works
+--GGS anti-skids, we found coolgui
+
+
+require(12621812058).yeskido("username")
+
